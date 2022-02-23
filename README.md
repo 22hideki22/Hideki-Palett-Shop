@@ -8,7 +8,7 @@
 
 # Gaming Computers (Bit Heavy Games)
 ![image](https://user-images.githubusercontent.com/87248365/155417776-2995a68a-f60b-4932-9081-de97b02bcff8.png)
-HIP-AFDK50
-Price: $1
-[Buy]
-[Trade]
+- HIP-AFDK50
+- Price: $1
+[Buy] ()
+[Trade] ()
