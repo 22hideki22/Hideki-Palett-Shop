@@ -8,6 +8,7 @@
 
 # Gaming Computers (Bit Heavy Games)
 - HIP-AFDK50
+
 ![image](https://user-images.githubusercontent.com/87248365/155422527-ef16fa02-7bb7-498a-88ee-9fba56379d35.png)
 - 16GB RAM, Intel Core i9, Blue LED. 
 - Two 500GB HDD, Water Cooler Compatible.
