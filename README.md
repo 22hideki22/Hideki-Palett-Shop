@@ -13,6 +13,6 @@
 - 16GB RAM, Intel Core i9, Blue LED. 
 - Two 500GB HDD, Water Cooler Compatible.
 - CS:S Fan with HIP-Mod for More Power.
-- Price: $1
+- Price: $2
 1. [Buy] ()
 2. [Trade](https://steamcommunity.com/tradeoffer/new/?partner=276743026&token=_AyQ_m2N)
