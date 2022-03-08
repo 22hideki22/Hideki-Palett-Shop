@@ -28,6 +28,6 @@
 - Nvidia GeForce GTX Titan GPU.
 - Price: $3
 - Trade item: Any CS:GO Weapon With Skin.
-- 1. [Buy] (Not available)
-- 2. [Trade With Hideki](https://steamcommunity.com/tradeoffer/new/?partner=276743026&token=_AyQ_m2N)
+1. [Buy] (Not available)
+2. [Trade With Hideki](https://steamcommunity.com/tradeoffer/new/?partner=276743026&token=_AyQ_m2N)
 
