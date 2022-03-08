@@ -5,7 +5,7 @@
 ## How to Buy a Computer?
 - Dont know How to Buy?
 - Want to know how it Work?
-- 0Then [Click Here!](https://drive.google.com/file/d/1kL-NeA7SyMW4rXRPK6SXD4cdl55RSSEE/view?usp=sharing)
+- Then [Click Here!](https://drive.google.com/file/d/1kL-NeA7SyMW4rXRPK6SXD4cdl55RSSEE/view?usp=sharing)
 
 # Gaming Computers (Heavy Games)
 - HIP-AFDK50
