@@ -6,6 +6,7 @@
 - Dont know How to Buy?
 - Want to know how it Work?
 - Then [Click Here!](https://drive.google.com/file/d/1kL-NeA7SyMW4rXRPK6SXD4cdl55RSSEE/view?usp=sharing)
+(NOTE: The Payment Method (pix) can not be made outside the Country, So you will only be able to Trade Items)
 
 # Gaming Computers (Heavy Games)
 - HIP-AFDK50
