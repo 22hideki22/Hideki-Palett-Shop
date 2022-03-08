@@ -3,7 +3,10 @@
 - Here we Have Job Computers, Gaming and Normal.
 
 ## How to Buy a Computer?
-[Click Here](https://drive.google.com/file/d/1kL-NeA7SyMW4rXRPK6SXD4cdl55RSSEE/view?usp=sharing)
+Dont know How to Buy?
+Want to know how it Work?
+Then [Click Here!](https://drive.google.com/file/d/1kL-NeA7SyMW4rXRPK6SXD4cdl55RSSEE/view?usp=sharing)
+
 # Gaming Computers (Heavy Games)
 - HIP-AFDK50
 
