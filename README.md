@@ -15,6 +15,5 @@
 - CS:S Fan with HIP-Mod for More Power.
 - Price: $2
 - Trade item: Any CS:GO Weapon With Skin.
-1. [Buy] ()
+1. [Buy] (Not available)
 2. [Trade With Hideki](https://steamcommunity.com/tradeoffer/new/?partner=276743026&token=_AyQ_m2N)
-3. [Trade With Quint] ()
