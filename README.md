@@ -14,5 +14,7 @@
 - Two 500GB HDD, Water Cooler Compatible.
 - CS:S Fan with HIP-Mod for More Power.
 - Price: $2
+- Trade item: Any CS:GO Weapon With Skin.
 1. [Buy] ()
-2. [Trade](https://steamcommunity.com/tradeoffer/new/?partner=276743026&token=_AyQ_m2N)
+2. [Trade With Hideki](https://steamcommunity.com/tradeoffer/new/?partner=276743026&token=_AyQ_m2N)
+3. [Trade With Quint] ()
