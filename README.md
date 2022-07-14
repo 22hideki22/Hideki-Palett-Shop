@@ -1,6 +1,6 @@
 # Hideki-Palett-Shop
 - In This Part, you Start Buy your New Computer!
-- Here we Have Job Computers, Gaming and Normal.
+- Here we Have Gaming, Home, Office Computers and other...
 
 ## How to Buy a Computer?
 - Dont know How to Buy?
