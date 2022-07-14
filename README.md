@@ -17,7 +17,7 @@
 - Two 500GB HDD.
 - Zotac GT-640.
 - Price: $2
-- Trade item: Any CS:GO Weapon With Skin.
+- Trade item: TF2 Scrap Metal.
 1. [Buy] (Not available)
 2. [Trade With Hideki](https://steamcommunity.com/tradeoffer/new/?partner=276743026&token=_AyQ_m2N)
 
