@@ -12,10 +12,10 @@
 - HIP-AFDK50
 
 ![image](https://user-images.githubusercontent.com/87248365/155422527-ef16fa02-7bb7-498a-88ee-9fba56379d35.png)
-- 16GB RAM, Intel Core i9, Blue LED. 
-- Two 500GB HDD, Water Cooler Compatible.
-- CS:S Fan with HIP-Mod for More Power.
-- CS:S GPU With HIP-Mod For More Power.
+- 16GB RAM.
+- Intel Core i9-7980XE 
+- Two 500GB HDD.
+- ATI Radeon 9800 Pro.
 - Price: $2
 - Trade item: Any CS:GO Weapon With Skin.
 1. [Buy] (Not available)
