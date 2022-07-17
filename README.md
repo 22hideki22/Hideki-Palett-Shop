@@ -16,7 +16,7 @@
 - Intel Core i9-7980XE 
 - Two 500GB HDD.
 - Zotac GT-640.
-- Price: $2
+- Price: $3
 - Trade item: TF2 Scrap Metal.
 1. [Buy] (Not available)
 2. [Trade With Hideki](https://steamcommunity.com/tradeoffer/new/?partner=276743026&token=_AyQ_m2N)
@@ -28,8 +28,18 @@
 - AMD Ryzen FX-8320E.
 - 512GB SSD.
 - Nvidia GeForce GTX 780.
-- Price: $3
+- Price: $4
 - Trade item: Any CS:GO Weapon With Skin.
 1. [Buy] (Not available)
 2. [Trade With Hideki](https://steamcommunity.com/tradeoffer/new/?partner=276743026&token=_AyQ_m2N)
 
+- HIP-AFDK70
+![image]![image](https://user-images.githubusercontent.com/87248365/179380861-8800253b-7b59-41e1-bd27-28119dadbd58.png)
+- 16GB RAM
+- AMD Ryzen 5 5600g
+- 960GB SSD
+- Radeon RX Vega 8
+- Price: $3
+- Trade item: Any key from TF2 or CSGO.
+1. [Buy] (Not available
+2. [Trade With Hideki](https://steamcommunity.com/tradeoffer/new/?partner=276743026&token=_AyQ_m2N)
