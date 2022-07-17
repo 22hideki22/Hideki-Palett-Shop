@@ -34,7 +34,7 @@
 2. [Trade With Hideki](https://steamcommunity.com/tradeoffer/new/?partner=276743026&token=_AyQ_m2N)
 
 - HIP-AFDK70
-![image]![image](https://user-images.githubusercontent.com/87248365/179380861-8800253b-7b59-41e1-bd27-28119dadbd58.png)
+![image](https://user-images.githubusercontent.com/87248365/179381193-a549c39d-88df-419d-b205-3fc60dd8029b.png)
 - 16GB RAM
 - AMD Ryzen 5 5600g
 - 960GB SSD
