@@ -24,6 +24,7 @@
 - HIP-AFDK90
 
 ![image](https://user-images.githubusercontent.com/87248365/157334108-613ccb4f-74b9-4c44-a23c-0e1c24e3d8c1.png)
+
 - 64GB RAM.
 - AMD Ryzen FX-8320E.
 - 512GB SSD.
